@@ -1,0 +1,21 @@
+{
+  "packages": [
+    {
+      "name": "vendor/app",
+      "version": "1.0.0",
+      "require": { "vendor/lib": "^1.0" }
+    },
+    {
+      "name": "vendor/lib",
+      "version": "1.2.0",
+      "require": {}
+    }
+  ],
+  "packages-dev": [
+    {
+      "name": "vendor/test",
+      "version": "1.0.0",
+      "require": {}
+    }
+  ]
+}

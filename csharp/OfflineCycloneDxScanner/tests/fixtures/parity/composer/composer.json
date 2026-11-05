@@ -1,0 +1,4 @@
+{
+  "require": { "vendor/app": "^1.0" },
+  "require-dev": { "vendor/test": "^1.0" }
+}

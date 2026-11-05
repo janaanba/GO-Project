@@ -1,0 +1,10 @@
+packages:
+  http:
+    dependency: "direct main"
+    version: "1.2.0"
+  meta:
+    dependency: transitive
+    version: "1.11.0"
+  test:
+    dependency: "direct dev"
+    version: "1.25.0"

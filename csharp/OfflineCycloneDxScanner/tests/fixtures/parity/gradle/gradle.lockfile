@@ -1,0 +1,2 @@
+org.example:runtime:1.0=compileClasspath
+org.example:test-lib:2.0=testCompileClasspath

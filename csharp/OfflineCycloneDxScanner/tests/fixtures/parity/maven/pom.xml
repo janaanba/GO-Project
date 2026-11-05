@@ -1,0 +1,12 @@
+<project>
+  <groupId>org.example</groupId>
+  <artifactId>sample-app</artifactId>
+  <version>1.0.0</version>
+  <dependencies>
+    <dependency>
+      <groupId>org.example</groupId>
+      <artifactId>maven-lib</artifactId>
+      <version>1.0.0</version>
+    </dependency>
+  </dependencies>
+</project>
